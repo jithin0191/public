@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "corporate-security-sandbox",
+  "private_key_id": "b11d0f1ce8c147db651c03e8e73428fd85aa74da",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCdUZSpAfWwfsLv\nR21kcNF2m93TtvE6ouqAQpAiVv1eIidRceWTEP7oBUJ0tYqxhrWsUQ3+2u9q8W4o\nFTWFBbalKLsNhXXVffd7Ah9IgfAYyfvdHEXXFEJ8he5++zcNyhZdNulHD7TPz+4v\nUEW3W1Nn2p50FqsS2cjuBr08h7+aKoRtom+S1XGUtymaM9aAV8HVadaoJJN9saW7\noyNuq+7DEkmw7WD584pfWLZXP2cnL5YACwuAaA1PB5e1zNMHFidNWxWQGca7TGwX\nc6LqBxpGzhg4M+Zg2VfOchKh9V+1oswvDQz6/GhDRewGO32oPx2ycGpcryuBVmfq\ndNIKGKIFAgMBAAECggEAJskNsytCBP0Dl1WPUUOFSM49vuwsBg5TbUK74VN8DOCz\nu98uP/dhORfO3hJB+umg0bZ8EliszTtvsp8j/kM91/M2RqugNP3k7WVFDC3I4Xuu\nxkEpsNCUYbntZk4OMS6hG+MlWTk0lUWIzg5m2cFAy2p5RVqvW6ro4FI2Bn3bTakJ\n35xY5GbR+IbWp5JJA+aHRK6Leq7qd4gb+Kv9BmI8vwcPkY2ZYxguvyp87445AN5H\nCvkrdK3Dp+LcU5HCw25831yZSxlWmst5J1T2ecP/vMRO/RU02O7xdHlv40CXvGca\na3CzUem/uEQFj2w+5zoBv8t08Qj9pl5WPo2lDjJ6EwKBgQDJrT6CzoTRS7sAys0/\nZ6f+BDFQwkmeE3rUH4HzMdB2wv722q+yNK4wnkUXYggAAGpmIqRcjaECsufmeTXw\nJMTK6ISHjlmMoEF6oQCG9mWmDTQrjGDDwH5Bj3GC3kB7INDnYn0gxjuAtIVE1zaz\n0KScGJyxLoud1ioLX2R4gGb2IwKBgQDHsZivemo9cctZV4SOzptrIocFDvjkwXdN\n0JL0EnBMMfy8g8kyw6FDrY2WMgf/JE9bNcyuNMGqPno0uDH8dhFASfmZaVI+DHcK\nOuHUkhhfEapn+qdV5T22vVQR21qpSwNUd5a3NLqKgWBZDLgtaBQsSK21s90ViJHz\noDGSrpAFtwKBgHfZLkbJt4AxQuYLnsFJNjnr/+qAKwN3jAy21KDTP5Dz/FRyTOrY\nB5P42hI1PY/Sr2gWuhoOSFq0Or9p1LXrA8+ZMfjkjS7WpVLcjtWlY260dgZTG8X4\nhI8tUUV2EleZfsuiab2qT/4CSRhJ1MYy/T+OGL/qaynW9ZFglPJPS+CFAoGBAIki\njyZCvN7BXNJX5bJkdBrYtTxmEcqWiaWojKKMXw4UbenP3sW7zu05LDhu10sB1nVe\nttcTZ8PP8ABwVfN36VTq+DvANjhiOwWNdjSSt6Xh7dJGMdAtA3qQ/kDdEJ+d4gWJ\nsrjRvyEKw+2jbH/SL7hRmOllQXheN0zFQAXpVwJ1AoGAavvjHIsmyo8sw4WeuvIH\nz1NWGd75yFN1Tm86gbogMtuPhfrGFY6e7iyp4cAMsLV41YeoF42MdOdNqQ4SsqSm\nCrDwXdQMKIYrbfYZSgD/h6Nxxtyo+MVNCXX4ApnR9UxJeDP+oXgSqSxhVzDGuXWh\nNYadCTckUCQg+eTOrnHeBsw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "gitguardina-test@corporate-security-sandbox.iam.gserviceaccount.com",
+  "client_id": "110661422297607666945",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gitguardina-test%40corporate-security-sandbox.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
